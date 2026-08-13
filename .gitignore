@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Runtime data (JSON-file persistence — regenerated on first run)
+backend/data/
+
+# Go build artifacts
+backend/server
+backend/server.exe
+*.exe
+*.exe~
+
+# Editor / OS
+.vite/
+*.local
+.DS_Store
+Thumbs.db
