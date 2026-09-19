@@ -1,5 +1,7 @@
 # Exam Question Manager
 
+[![Full-Stack CI](https://github.com/Yuttakarn2545/exam-question-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/Yuttakarn2545/exam-question-manager/actions/workflows/ci.yml)
+
 A small full-stack application for managing multiple-choice exam questions, built to demonstrate **Vue 3 + TypeScript frontend development, Go/Fiber REST API design, validation, persistence, and layered backend architecture**.
 
 ## Why this project matters
